@@ -1,0 +1,23 @@
+.container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    
+}
+img{
+    height: 200px;
+    width: 400px;
+}
+.main{
+    display: flex;
+    gap: 20px;
+    margin-top: 30px;
+}
+.likefont{
+    font-size: 40px;    
+}
+.btn{
+    width: 80px;
+}
